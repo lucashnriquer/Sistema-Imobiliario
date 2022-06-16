@@ -1,0 +1,189 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\main.cpp
+	<iostream>
+
+1538001463 source:c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\src\imovel.cpp
+	"Imovel.h"
+
+1538001463 c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\include\imovel.h
+	<string>
+
+1538002260 source:c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\src\casa.cpp
+	"Casa.h"
+
+1538002260 c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\include\casa.h
+	<Imovel.h>
+
+1538002677 source:c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\src\apartamento.cpp
+	"Apartamento.h"
+
+1538002391 c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\include\apartamento.h
+	<Imovel.h>
+
+1538002781 source:c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\src\terreno.cpp
+	"Terreno.h"
+
+1538002781 c:\users\bruno\desktop\cpp\projeto 2\sistema_imobiliaria_lp1\include\terreno.h
+	<Imovel.h>
+
+1538044530 source:c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\main.cpp
+	<iostream>
+
+1538044530 source:c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\src\apartamento.cpp
+	"Apartamento.h"
+
+1538058295 c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\include\apartamento.h
+	<Imovel.h>
+
+1538058295 c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\include\imovel.h
+	<string>
+
+1538044530 source:c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\src\casa.cpp
+	"Casa.h"
+
+1538058295 c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\include\casa.h
+	<Imovel.h>
+
+1538044530 source:c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\src\imovel.cpp
+	"Imovel.h"
+
+1538044530 source:c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\src\terreno.cpp
+	"Terreno.h"
+
+1538058294 c:\users\franf\documents\c++\projeto 2\sistema_imobiliaria_lp1\include\terreno.h
+	<Imovel.h>
+
+1538404760 source:c:\users\bruno\desktop\projeto2-derzu-master\projeto 2\sistema_imobiliaria_lp1\main.cpp
+	<iostream>
+	<locale.h>
+	<SistemaImobiliario.h>
+
+1538361457 source:c:\users\bruno\desktop\projeto2-derzu-master\projeto 2\sistema_imobiliaria_lp1\src\apartamento.cpp
+	"Apartamento.h"
+
+1538361457 c:\users\bruno\desktop\projeto2-derzu-master\projeto 2\sistema_imobiliaria_lp1\include\apartamento.h
+	<Imovel.h>
+
+1538361457 c:\users\bruno\desktop\projeto2-derzu-master\projeto 2\sistema_imobiliaria_lp1\include\imovel.h
+	<string>
+
+1538361457 source:c:\users\bruno\desktop\projeto2-derzu-master\projeto 2\sistema_imobiliaria_lp1\src\casa.cpp
+	"Casa.h"
+
+1538361457 c:\users\bruno\desktop\projeto2-derzu-master\projeto 2\sistema_imobiliaria_lp1\include\casa.h
+	<Imovel.h>
+
+1538361457 source:c:\users\bruno\desktop\projeto2-derzu-master\projeto 2\sistema_imobiliaria_lp1\src\imovel.cpp
+	"Imovel.h"
+
+1538409509 source:c:\users\bruno\desktop\projeto2-derzu-master\projeto 2\sistema_imobiliaria_lp1\src\sistemaimobiliario.cpp
+	"SistemaImobiliario.h"
+
+1538408219 c:\users\bruno\desktop\projeto2-derzu-master\projeto 2\sistema_imobiliaria_lp1\include\sistemaimobiliario.h
+	<vector>
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<algorithm>
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1538361457 c:\users\bruno\desktop\projeto2-derzu-master\projeto 2\sistema_imobiliaria_lp1\include\terreno.h
+	<Imovel.h>
+
+1538361457 source:c:\users\bruno\desktop\projeto2-derzu-master\projeto 2\sistema_imobiliaria_lp1\src\terreno.cpp
+	"Terreno.h"
+
+1538420393 source:c:\users\aluno.ci-hp\desktop\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\main.cpp
+	<iostream>
+	<locale.h>
+	<SistemaImobiliario.h>
+
+1538418379 c:\users\aluno.ci-hp\desktop\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\include\sistemaimobiliario.h
+	<vector>
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<algorithm>
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1538415847 c:\users\aluno.ci-hp\desktop\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\include\casa.h
+	<Imovel.h>
+
+1538395516 c:\users\aluno.ci-hp\desktop\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\include\imovel.h
+	<string>
+
+1538418379 c:\users\aluno.ci-hp\desktop\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\include\apartamento.h
+	<Imovel.h>
+
+1538415847 c:\users\aluno.ci-hp\desktop\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\include\terreno.h
+	<Imovel.h>
+
+1538415847 source:c:\users\aluno.ci-hp\desktop\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\src\apartamento.cpp
+	"Apartamento.h"
+
+1538415847 source:c:\users\aluno.ci-hp\desktop\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\src\casa.cpp
+	"Casa.h"
+
+1538416508 source:c:\users\aluno.ci-hp\desktop\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\src\imovel.cpp
+	"Imovel.h"
+
+1538422599 source:c:\users\aluno.ci-hp\desktop\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\src\sistemaimobiliario.cpp
+	"SistemaImobiliario.h"
+
+1538415847 source:c:\users\aluno.ci-hp\desktop\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\src\terreno.cpp
+	"Terreno.h"
+
+1538408632 source:c:\users\aluno.ci-hp\desktop\projeto_final-master\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\main.cpp
+	<iostream>
+	<locale.h>
+	<SistemaImobiliario.h>
+
+1538408632 c:\users\aluno.ci-hp\desktop\projeto_final-master\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\include\sistemaimobiliario.h
+	<vector>
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<algorithm>
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1538408632 c:\users\aluno.ci-hp\desktop\projeto_final-master\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\include\casa.h
+	<Imovel.h>
+
+1538408632 c:\users\aluno.ci-hp\desktop\projeto_final-master\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\include\imovel.h
+	<string>
+
+1538408632 c:\users\aluno.ci-hp\desktop\projeto_final-master\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\include\apartamento.h
+	<Imovel.h>
+
+1538408632 c:\users\aluno.ci-hp\desktop\projeto_final-master\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\include\terreno.h
+	<Imovel.h>
+
+1538408632 source:c:\users\aluno.ci-hp\desktop\projeto_final-master\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\src\apartamento.cpp
+	"Apartamento.h"
+
+1538408632 source:c:\users\aluno.ci-hp\desktop\projeto_final-master\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\src\casa.cpp
+	"Casa.h"
+
+1538408632 source:c:\users\aluno.ci-hp\desktop\projeto_final-master\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\src\imovel.cpp
+	"Imovel.h"
+
+1538408632 source:c:\users\aluno.ci-hp\desktop\projeto_final-master\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\src\terreno.cpp
+	"Terreno.h"
+
+1538600599 source:c:\users\aluno.ci-hp\desktop\projeto_final-master\projetaofinal-master\projeto 2\sistema_imobiliaria_lp1\src\sistemaimobiliario.cpp
+	"SistemaImobiliario.h"
+

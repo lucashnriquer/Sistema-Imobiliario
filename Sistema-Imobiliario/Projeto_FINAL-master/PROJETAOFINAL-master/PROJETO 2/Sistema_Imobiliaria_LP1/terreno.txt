@@ -1,0 +1,10 @@
+Terreno lixoso
+50000
+1
+3
+Rua Sinaleira Veia
+500
+Mangabeira
+Joao Pessoa
+58000600
+540.35
